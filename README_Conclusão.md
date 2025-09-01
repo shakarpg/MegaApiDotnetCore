@@ -1,17 +1,15 @@
-# 🤖 Mega Man Robots API
-
 <p align="center">
   <img src="./_docs/assets/icon.png" alt="Mega Man Robots API" width="150"/>
 </p>
 
-<p align="center">
-  <b>API REST em .NET Core para consulta de robôs da série Mega Man</b><br/>
-  <sub><sup>(MEGA-MAN-ROBOTS)</sup></sub>
+<p align="center-justify">
+  <h1>API REST em .NET Core para consulta de robôs da série Mega Man</h1><br/>
+ </p>
+ <p align="center">
+  <b><sup>(MEGA-MAN-ROBOTS)</sup></b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/felipeAguiarCode/MegaApiDotnetCore/actions/workflows/build.yml">
-    <img src="https://github.com/felipeAguiarCode/MegaApiDotnetCore/actions/workflows/build.yml/badge.svg" alt="Build Status"/>
+ <p align="center">
   </a>
   <a href="https://github.com/felipeAguiarCode/MegaApiDotnetCore/releases/latest">
     <img src="https://img.shields.io/github/v/release/felipeAguiarCode/MegaApiDotnetCore" alt="Latest Release"/>
@@ -148,4 +146,4 @@ Distribuído sob a [MIT License](./LICENSE).
 
 ---
 
-⌨️ Desenvolvido por **Felipe Aguiar** – [GitHub](https://github.com/felipeAguiarCode)  
+⌨️ Desenvolvido por **Felipe Aguiar** – [GitHub](https://github.com/felipeAguiarCode)  e melhorado readme de conclusão por **Rafael Pereira** [GitHub](https://github.com/shakarpg)
